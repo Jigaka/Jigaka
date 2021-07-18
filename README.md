@@ -22,6 +22,8 @@ Puedes encontrarme en🌎:
 - [Instagram](https://www.instagram.com/_joseka211219)
 
 
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigaka&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Jigaka/Jigaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
