@@ -18,7 +18,7 @@ const Jose = {
 
 Puedes encontrarme en🌎:
 - [Twitter](https://twitter.com/jigaka3)
-- [LinkedIn](linkedin.com/in/jose-garcete-796b70160)
+- [LinkedIn](https://www.linkedin.com/in/jose-garcete-796b70160/)
 - [Instagram](https://www.instagram.com/_joseka211219)
 
 
