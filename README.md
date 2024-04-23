@@ -8,7 +8,7 @@
 
 ```js
 const Jose = {
-  technologies 'web',
+  technologies: 'web',
   passions: ['web-development']
 }
 ```
