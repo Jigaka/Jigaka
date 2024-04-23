@@ -8,9 +8,8 @@
 
 ```js
 const Jose = {
-  pronouns: 'he' | 'him',
-  technologies 'web','movil',
-  passions: ['app-development']
+  technologies 'web',
+  passions: ['web-development']
 }
 ```
 
@@ -18,8 +17,8 @@ const Jose = {
 
 Puedes encontrarme en🌎:
 - [Twitter](https://twitter.com/jigaka3)
-- [LinkedIn](https://www.linkedin.com/in/jose-garcete-796b70160/)
-- [Instagram](https://www.instagram.com/_joseka211219)
+- [LinkedIn](https://www.linkedin.com/in/jose-garcete/)
+- [Instagram](https://www.instagram.com/josceka)
 
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigaka&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
