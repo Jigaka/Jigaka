@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img style='width:300px height:300px border-radius:150px' align="center" width="200" src="https://user-images.githubusercontent.com/44094594/126071902-3aab804c-ff49-479e-a847-14de07501dc3.png" />
+   <img style='width:300px height:300px border-radius:150px' align="center" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" />
    <h3 align="center">¡Hey 👋! Soy José 🤖🇵🇾</h3>
 </p>
 
