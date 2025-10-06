@@ -39,9 +39,7 @@ Actualmente me enfoco en ***backend***.
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigaka&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigaka&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
