@@ -3,22 +3,15 @@
    <h3 align="center">¡Hey 👋! Soy José 🤖🇵🇾</h3>
 </p>
 
-<p align="center">Soy <strong>estudiante universitario</strong> de informática.<br/></p>
+<p align="center">Soy Ingeniero Informático.<br/></p>
 
-
-```js
-const Jose = {
-  technologies: 'web',
-  passions: ['web-development']
-}
-```
-
-
-
-Puedes encontrarme en🌎:
-- [Twitter](https://twitter.com/jigaka3)
-- [LinkedIn](https://www.linkedin.com/in/jose-garcete/)
-- [Instagram](https://www.instagram.com/josceka)
+<p align="center">
+   Puedes encontrarme en🌎:
+   - [Portfolio](https://jose-garcete.dev)
+   - [Twitter](https://twitter.com/jigaka3)
+   - [LinkedIn](https://www.linkedin.com/in/jose-garcete/)
+   - [Instagram](https://www.instagram.com/josceka)
+</p>
 
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jigaka&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
